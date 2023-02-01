@@ -1,0 +1,26 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	overflow: hidden;
+}
+
+body h1 {
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	height: 90vh;
+}
+
+.countdown-div {
+	width: 50%;
+}
+
+.random-game-div {
+	width: 50%;
+}
